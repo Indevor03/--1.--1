@@ -1,0 +1,15 @@
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Tas 06\bin\Debug\net6.0\Tas 06.exe
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Tas 06\bin\Debug\net6.0\Tas 06.deps.json
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Tas 06\bin\Debug\net6.0\Tas 06.runtimeconfig.json
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Tas 06\bin\Debug\net6.0\Tas 06.dll
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Tas 06\bin\Debug\net6.0\Tas 06.pdb
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Tas 06\obj\Debug\net6.0\Tas 06.csproj.AssemblyReference.cache
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Tas 06\obj\Debug\net6.0\Tas 06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Tas 06\obj\Debug\net6.0\Tas 06.AssemblyInfoInputs.cache
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Tas 06\obj\Debug\net6.0\Tas 06.AssemblyInfo.cs
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Tas 06\obj\Debug\net6.0\Tas 06.csproj.CoreCompileInputs.cache
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Tas 06\obj\Debug\net6.0\Tas 06.dll
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Tas 06\obj\Debug\net6.0\refint\Tas 06.dll
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Tas 06\obj\Debug\net6.0\Tas 06.pdb
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Tas 06\obj\Debug\net6.0\Tas 06.genruntimeconfig.cache
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Tas 06\obj\Debug\net6.0\ref\Tas 06.dll
