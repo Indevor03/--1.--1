@@ -1,0 +1,15 @@
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Task 08\bin\Debug\net6.0\Task 08.exe
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Task 08\bin\Debug\net6.0\Task 08.deps.json
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Task 08\bin\Debug\net6.0\Task 08.runtimeconfig.json
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Task 08\bin\Debug\net6.0\Task 08.dll
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Task 08\bin\Debug\net6.0\Task 08.pdb
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Task 08\obj\Debug\net6.0\Task 08.csproj.AssemblyReference.cache
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Task 08\obj\Debug\net6.0\Task 08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Task 08\obj\Debug\net6.0\Task 08.AssemblyInfoInputs.cache
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Task 08\obj\Debug\net6.0\Task 08.AssemblyInfo.cs
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Task 08\obj\Debug\net6.0\Task 08.csproj.CoreCompileInputs.cache
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Task 08\obj\Debug\net6.0\Task 08.dll
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Task 08\obj\Debug\net6.0\refint\Task 08.dll
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Task 08\obj\Debug\net6.0\Task 08.pdb
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Task 08\obj\Debug\net6.0\Task 08.genruntimeconfig.cache
+C:\Users\indev\OneDrive\Рабочий стол\ОБУЧЕНИЕ\ЯЗЫКИ ПРОГРАММИРОВАНИЯ\СЕМИНАРЫ\СЕМИНАР 1\1Sem\Task 08\obj\Debug\net6.0\ref\Task 08.dll
